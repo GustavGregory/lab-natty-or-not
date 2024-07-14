@@ -1,16 +1,16 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Meu projeto foi usar o vidnoz AI para criar um vídeo com IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usei IA generativa para criar um vídeo da minha imagem pessoal com a voz de outra pessoa e gerar o texto em conversação.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi muito simples, entrei no site da vidnoz.com
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://share.vidnoz.com/aivideo?id=6475456
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É muito divertido criar coisas com IA, porém precisamos nos atentar as leis de AI para não cometer falhas. Essa ferramenta chama IA Generativa é muito poderosa.
