@@ -14,3 +14,5 @@ https://share.vidnoz.com/aivideo?id=6475456
 
 ## 💭 Reflexão (Opcional)
 É muito divertido criar coisas com IA, porém precisamos nos atentar as leis de AI para não cometer falhas. Essa ferramenta chama IA Generativa é muito poderosa.
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
